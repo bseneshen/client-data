@@ -6,7 +6,7 @@ const clientData = [
   { name: "005 Marilyn", slug: "client-note-marilyn" },
   { name: "006 Calvin", slug: "client-note-calvin" },
   { name: "007 Tom (outpatient)", slug: "client-note-tom-outpatient" },
-  { name: "008 Alice (stroke)", slug: "client-note-alice-stroke" },
+  { name: "008 Alice (stroke)", slug: "client-note-alice-cva" },
   { name: "009 Clint", slug: "client-note-clint" },
   { name: "010 Dick", slug: "client-note-dick" },
   { name: "011 Dale", slug: "client-note-dale" },
