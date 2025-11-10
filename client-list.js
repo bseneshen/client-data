@@ -47,4 +47,19 @@ const clientData = [
   { name: "048 Sarah", slug: "client-note-sarah" },
   { name: "049 Andy", slug: "client-note-andy" },
   { name: "050 Alicia", slug: "client-note-alicia" }
+  { name: "051 Steven", slug: "client-note-steven" },
+  { name: "052 Gloria", slug: "client-note-gloria" },
+  { name: "053 Logan", slug: "client-note-logan" },
+  { name: "054 Scott", slug: "client-note-scott" },
+  { name: "055 Jared", slug: "client-note-jared" },
+  { name: "056 Tristan", slug: "client-note-tristan" },
+  { name: "057 Phillip", slug: "client-note-phillip" },
+  { name: "058 Jonathan", slug: "client-note-jonathan" },
+  { name: "059 Lindsey", slug: "client-note-lindsey" },
+  { name: "060 Sylvia ", slug: "client-note-sylvia " },
+  { name: "061 Lori", slug: "client-note-lori" },
+  { name: "062 Mitch", slug: "client-note-mitch" },
+  { name: "063 Bubba", slug: "client-note-bubba" }
+
+
 ];
